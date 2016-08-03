@@ -1,1 +1,1 @@
-# CS-concepts-architecture
+# IT-Concepts-Architecture
