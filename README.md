@@ -1,1 +1,1 @@
-# IT-Concepts-Architecture
+# IT-Concepts-Definitions
