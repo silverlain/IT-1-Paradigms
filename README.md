@@ -1,2 +1,2 @@
 # IT-1-Concepts
-This repository documents basic computing, programming, and other foundational concepts upon which IT is built.
+This repository documents basic computing, programming, and other foundational concepts which represent the grand paradigm against which modern IT is built. These concepts are constantly changing and improving due to new developments in hardware and software, resulting in a cascading effect on the higher layers of knowledge.
